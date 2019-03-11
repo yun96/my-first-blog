@@ -1,2 +1,2 @@
 # my-first-blog
-Тествый сайт Python (Django): yun96.pythonanywhere.com
+Тествый сайт Python (Django): <a href="yun96.pythonanywhere.com">yun96.pythonanywhere.com</a>
